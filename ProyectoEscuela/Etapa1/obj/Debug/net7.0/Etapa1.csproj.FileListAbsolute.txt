@@ -1,0 +1,15 @@
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\bin\Debug\net7.0\Etapa1.exe
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\bin\Debug\net7.0\Etapa1.deps.json
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\bin\Debug\net7.0\Etapa1.runtimeconfig.json
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\bin\Debug\net7.0\Etapa1.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\bin\Debug\net7.0\Etapa1.pdb
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.csproj.AssemblyReference.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfo.cs
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\refint\Etapa1.dll
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.pdb
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\Etapa1.genruntimeconfig.cache
+C:\Users\Exiuser\Desktop\Platzi\DotNet\DotNet2.1\ProyectoEscuela\Etapa1\obj\Debug\net7.0\ref\Etapa1.dll
